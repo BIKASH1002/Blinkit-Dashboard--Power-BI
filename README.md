@@ -11,8 +11,8 @@ Average Rating: 3.9 stars
 **Key Visualizations**
 
 _1) Fat Content Analysis:_
-
 The dashboard displays the distribution of sales between low-fat and regular items.
+
 Regular items account for $776.3K in sales, while low-fat items contribute $425.4K.
 
 _2) Item Type Performance:_
