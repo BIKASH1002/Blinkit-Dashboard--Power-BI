@@ -1,8 +1,15 @@
+# BlinkIt Data Analysis Dashboard in Power BI
+
 # **Overview**
 
-This repository contains a sales dashboard for Blinkit, India’s Last Minute App. The dashboard visualizes various key performance indicators (KPIs) related to sales data including total sales, average sales, the number of items sold and average ratings across different outlet types and locations.
+This work contains a sales dashboard for Blinkit, India’s Last Minute App. The dashboard visualizes various key performance indicators (KPIs) related to sales data including total sales, average sales, the number of items sold and average ratings across different outlet types and locations.
+
+# Setup
+
+Power BI Desktop
 
 # **Dashboard Highlights**
+
 **Total Sales:** $1.2M
 
 **Average Sales per Item:** $141
@@ -26,8 +33,17 @@ A line chart tracks the establishment of outlets over time, highlighting key mil
 
 **_4) Outlet Size Distribution:_**
 Outlets are categorized by size: Medium, Small, and High.
-The sales are most significant in Medium-sized outlets, contributing $507.9K to total sales.
 
 **_5) Outlet Location and Type:_**
 Sales distribution across Tier 1, Tier 2, and Tier 3 cities shows that Tier 3 cities contribute the most, with $0.31M in sales.
-The dashboard also includes a breakdown of sales, average sales, number of items, and average ratings across different outlet types like Grocery Stores and various types of Supermarkets.
+The dashboard also includes a breakdown of sales, average sales, number of items, and average ratings across different outlet types like Grocery Stores and various types of Supermarkets. The sales are most significant in Medium-sized outlets, contributing $507.9K to total sales.
+
+# Dashboard
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/09aa534e-36f2-4335-8264-21dc61e1fd3d" alt="BlinkIt Dashboard"/>
+</p>
+
+# Credits
+
+**Dataset:** https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI 
